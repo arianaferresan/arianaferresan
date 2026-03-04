@@ -1,5 +1,5 @@
 <h1 align="center">Ariana</h1>
----
+
 Sou estudante de Desenvolvimento de Software Multiplataforma, focada em evoluir constantemente em lógica de programação e desenvolvimento front-end.
 
 Gosto de transformar ideias em aplicações funcionais, organizadas e bem estruturadas.
