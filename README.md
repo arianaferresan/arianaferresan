@@ -19,6 +19,14 @@ Acredito que qualidade não é apenas identificar falhas, mas entender o sistema
 
 ---
 
+## 🎓 Formação
+
+Graduação em Gestão Financeira – Faculdade das Américas (FAM)  
+Pós-graduação em Engenharia de Desenvolvimento de Produto – Anhanguera Educacional  
+Desenvolvimento de Software Multiplataforma – FATEC Jacareí (em andamento)
+
+---
+
 ## 🚀 Tecnologias em aprendizado
 
 Banco de Dados Relacional • Modelagem de Dados • JavaScript • TypeScript • Python • Git
