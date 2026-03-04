@@ -1,28 +1,42 @@
-<h1 align="center">Ariana</h1>
-
-Sou estudante de Desenvolvimento de Software Multiplataforma, focada em evoluir constantemente em lógica de programação e desenvolvimento front-end.
-
-Gosto de transformar ideias em aplicações funcionais, organizadas e bem estruturadas.
+<h1 align="center">Ariana FerreSan</h1>
+<p align="center">Analista de Sustentação | Estudante de Desenvolvimento de Software</p>
 
 ---
 
-## 🚀 Tecnologias
+## 👩🏻‍💻 Sobre mim
 
-<div align="center">
+Sou Analista de Sustentação e estudante do 2º semestre de Desenvolvimento de Software Multiplataforma na FATEC Jacareí.
 
-JavaScript • TypeScript • React • Node.js • Git • GitHub
+Iniciei a graduação com o objetivo de desenvolver meus hard skills e aprofundar meus conhecimentos técnicos em programação.
 
-</div>
+Tenho grande interesse em QA e testes, além de forte habilidade em experiência do usuário, construída a partir da minha atuação em Customer Success e como Analista de Serviços.
+
+Acredito que qualidade não é apenas identificar falhas, mas entender o sistema como um todo, antecipar riscos e garantir que a solução realmente entregue valor ao usuário.
 
 ---
 
-## 📌 Projetos em destaque
+## 🚀 Tecnologias em aprendizado
 
-### 404 Not Found
-Projeto acadêmico desenvolvido em grupo, com foco em organização, versionamento e construção de aplicações multiplataforma.
+Banco de Dados Relacional • Modelagem de Dados • JavaScript • TypeScript • Python • Git
+
+---
+
+## 📌 Projeto em destaque
+
+### Website Institucional – INPE | AgriRS Lab
+
+Projeto desenvolvido no segundo semestre de 2025, no curso de Desenvolvimento de Software Multiplataforma da FATEC Jacareí, utilizando a metodologia ABP (Aprendizagem Baseada em Projeto).
+
+O projeto consistiu no desenvolvimento do website institucional do Laboratório de Sensoriamento Remoto Agrícola do INPE, centralizando informações e ampliando sua visibilidade.
+
+A plataforma facilita o acesso a pesquisas, projetos, publicações científicas, equipe e canais de contato.
+
+🏆 Projeto eleito em 1º lugar na escolha do cliente.
+
+🔗 [Repositório do projeto – AgriRS Lab](https://github.com/404NotFound-ABP/AgriRSLAB_Portal)
 
 ---
 
 ## 🎯 Objetivo
 
-Construir uma base sólida como desenvolvedora e atuar criando soluções eficientes, claras e bem estruturadas.
+Atuar na área de Qualidade de Software, unindo minha experiência em sustentação, visão de negócio e foco no usuário para contribuir com produtos mais estáveis, eficientes e bem estruturados.
