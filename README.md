@@ -1,6 +1,10 @@
 <h1 align="center">Ariana FerreSan</h1>
 <p align="center">Analista de Sustentação | Estudante de Desenvolvimento de Software</p>
 
+<p align="center">
+<a href="SEU_LINK_LINKEDIN_AQUI">LinkedIn</a>
+</p>
+
 ---
 
 ## 👩🏻‍💻 Sobre mim
