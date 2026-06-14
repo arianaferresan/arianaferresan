@@ -33,21 +33,6 @@ Banco de Dados Relacional • Modelagem de Dados • JavaScript • TypeScript �
 
 ---
 
-## 📌 Projeto em destaque
-
-### Website Institucional – INPE | AgriRS Lab
-
-Projeto desenvolvido no segundo semestre de 2025, no curso de Desenvolvimento de Software Multiplataforma da FATEC Jacareí, utilizando a metodologia ABP (Aprendizagem Baseada em Projeto).
-
-O projeto consistiu no desenvolvimento do website institucional do Laboratório de Sensoriamento Remoto Agrícola do INPE, centralizando informações e ampliando sua visibilidade.
-
-A plataforma facilita o acesso a pesquisas, projetos, publicações científicas, equipe e canais de contato.
-
-🏆 Projeto eleito em 1º lugar na escolha do cliente.
-
-🔗 [Repositório do projeto – AgriRS Lab](https://github.com/404NotFound-ABP/AgriRSLAB_Portal)
-
----
 
 ## 🎯 Objetivo
 
