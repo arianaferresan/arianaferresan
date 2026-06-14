@@ -2,7 +2,7 @@
 <p align="center">Analista de Sustentação | Estudante de Desenvolvimento de Software</p>
 
 <p align="center">
-<a href="SEU_LINK_LINKEDIN_AQUI">LinkedIn</a>
+<a href="https://www.linkedin.com/in/arianaferreira/">LinkedIn</a> | <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523032/">Portfólio</a>
 </p>
 
 ---
